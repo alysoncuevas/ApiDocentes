@@ -7,7 +7,17 @@
       "sala": "Sala 208",
       "descripcion": "Profesor: Francisco Valdivieso.",
       "imagen": "assets/calidad.jpg",
-      "id": "4123"
+      "id": "4123",
+      "justificaciones": [
+      {
+        "texto": "Ausencia médica",
+        "fecha": "2024-12-18"
+      },
+      {
+        "texto": "Funeral de mi Abuela",
+        "fecha": "2024-11-29"
+      }
+    ]
     },
     {
       "nombre": "Arquitectura",
